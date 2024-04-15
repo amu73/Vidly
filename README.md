@@ -11,8 +11,8 @@
 
 
 
-Here, This Web Application has a list of Movies, and each Movie has properties like Title, Genre, Available Stocks, and Daily rental rate. Users can click on each movie to see more details like title, genre, etc. 
-- I have created two pagesand an API is available at  - `GET http://127.0.0.1:8000/api/movies`/
+Here, This Web Application has a list of Movies, and each Movie has properties like Title, Genre, Available Stocks, and Daily rental rate. Users can click on each movie to see more details about movie app like title, genre, etc. 
+- I have created two pages and an API is available at  - `GET http://127.0.0.1:8000/api/movies`/
 This API returns a list of movies as JSON. This is a basic project based on only the backend part **Django Framework**
 
  
